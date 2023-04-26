@@ -1,0 +1,47 @@
+{
+  "Packages": [
+    {
+      "Package": {
+        "Id": "UiPath.Excel.Activities",
+        "Version": "[2.20.0-preview]"
+      },
+      "Assemblies": [],
+      "Path": null
+    },
+    {
+      "Package": {
+        "Id": "UiPath.Mail.Activities",
+        "Version": "[1.18.2]"
+      },
+      "Assemblies": [],
+      "Path": null
+    },
+    {
+      "Package": {
+        "Id": "UiPath.System.Activities",
+        "Version": "[23.4.1-preview]"
+      },
+      "Assemblies": [],
+      "Path": null
+    },
+    {
+      "Package": {
+        "Id": "UiPath.Testing.Activities",
+        "Version": "[23.4.0-preview]"
+      },
+      "Assemblies": [],
+      "Path": null
+    },
+    {
+      "Package": {
+        "Id": "UiPath.UIAutomation.Activities",
+        "Version": "[23.4.1-preview]"
+      },
+      "Assemblies": [],
+      "Path": null
+    }
+  ],
+  "Conflicts": [],
+  "ResolvedDependencies": {},
+  "AllPackages": []
+}
